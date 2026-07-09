@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 
 st.title("🚢 Titanic Survival Predictor AI")
-st.write("Afzal Bhai ki Asli AI Web App!")
+st.write("kinza ki Asli AI Web App!")
 
 # User inputs
 pclass = st.selectbox("Passenger Class:", [1, 2, 3], index=2)
